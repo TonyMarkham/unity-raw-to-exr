@@ -15,7 +15,7 @@ pip install unity_raw_to_exr
 ```python
 from unity_raw_to_exr import raw_to_exr
 
-raw_to_exr("tests/terrain-33.raw")
+raw_to_exr("./tests/terrain-33.raw")
 
 ```
 
