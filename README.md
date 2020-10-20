@@ -7,7 +7,7 @@ This is a utility to convert the 16-bit raw heightmap data that Unity's Terrain 
 Run the following to install:
 
 ```bash
-pip install unity_raw_to_exr
+pip install unity-raw-to-exr
 ```
 
 ## Usage
